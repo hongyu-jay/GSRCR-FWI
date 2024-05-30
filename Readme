@@ -1,28 +1,20 @@
-README for SGRDL-FWI Matlab Package
+README for GSRCR-FWI Matlab Package
 
 This is the Matlab Package for
-Hongsun Fu,Hongyu Qi,Shujun Dong,and Ran Hua. "Sparse Graph-regularized Dictionary Learning for Full Waveform Inversion".  
+Honyu Qi,Zhenwu Fu,Yang Li,and Bo Han. "Regularization by Double Complementary Priors for Full Waveform Inversion".  
 Computers & Geosciences.
 
-please follow the instructions below to run the program:
-1.  run set_path.m first
-2. run SGRDL_marmousi.m to get the experimental results of the paper 
+Please run GSRCR_S/GSRCR_M.m to get the experimental results 
 
 
 Reference:
 
-[1] L. Liu, J. Ma, G. Plonka, Sparse graph-regularized dictionary learning for random seismic noise, Geophysics, 2018, 83 (3), V213-V231.
+[1] H.S. Fu, H.Y. Qi, S.J. Dong, and R. Hua. Sparse graph-regularized dictionary learning for full waveform inversion. Comput. Geosci. 180, C (Nov 2023).
 
+[2] Z. Zha, B. Wen, X. Yuan, J. Zhou, C. Zhu and A. C. Kot.A Hybrid Structural Sparsification Error Model for Image Restoration.in IEEE Transactions on Neural Networks and Learning Systems, 33(9), 4451-4465,2022.
 
-[2] Y. Yankelevsky, and M. Elad, Dual Graph Regularized Dictionary Learning,  IEEE Transactions on Signal and Information Processing over Networks,  2016, 2(4):611-624.
-
-[3] A. Cosse,  S. D. Shank, and L. Demanet.  A short note on rank-2 relaxation for waveform inversion, Seg Technical Program Expanded Abstracts, 2015, 1344-1350.
-
+[3] J. Xu, L. Zhang, and D. Zhang. External Prior Guided Internal Prior Learning for Real-World Noisy Image Denoising.IEEE Transactions on Image Processing (TIP), 2018.
 
 
 
-All comments are welcome at fuhongsun@dlmu.edu.cn
-
-Hongsun Fu
-School of Science, Dalian Maritime University, Dalian, 116026, China
-Oct, 2022.
+All comments are welcome at hongyu.qi@stu.hit.edu.cn
